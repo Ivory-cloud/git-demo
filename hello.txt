@@ -12,5 +12,6 @@ hello yjcomeon! hello git!
 hello yjcomeon! hello git!
 hello yjcomeon! hello git!
 hello yjcomeon! hello git!
+<<<<<<< HEAD
 hello yjcomeon! hello git! master test
-hello yjcomeon! hello git!
+hello yjcomeon! hello git! hot-fix test
